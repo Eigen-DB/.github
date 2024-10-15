@@ -3,25 +3,36 @@
 
 ### ⚡ The blazingly fast in-memory vector database 🚀 
 
-![](https://github.com/eigen-db/eigen-db/actions/workflows/tests.yml/badge.svg)
-![](https://github.com/eigen-db/eigen-db/actions/workflows/linting.yml/badge.svg)
-![](https://github.com/eigen-db/eigen-db/actions/workflows/conventional_commits.yml/badge.svg)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 </div>
 
 ## Table of contents
 
 1. [🔎 Overview](#overview)
-2. [📖 Documentation](#documentation)
-4. [🤝 Contributing](#contributing)
-6. [💬 Contact Us](#contact-us)
+2. [📦 Repositories](#Repositories)
+3. [📖 Documentation](#documentation)
+4. [💬 Contact Us](#contact-us)
 ---
 
 ### 🔎 Overview
-* EigenDB is a light-weight in-memory vector database written in Go. It’s entirely open-source! ❤️
-* Employs the _Hierarchical Navigable Small World_ (HNSW) algorithm to perform similarity search with the highest level of efficiency and speed.⚡
-    * Logic surrounding the HNSW algorithm is handled by our open-source Go library, [_hnswgo_](https://github.com/Eigen-DB/hnswgo)! 🧠
-* Basic database operations can be performed seamlessly through EigenDB's very simple [REST API](https://eigendb.mintlify.app/api-reference/api)! ✨
+* A light-weight in-memory vector database written in Go. It’s entirely open-source! ❤️
+* Employs an advanced algorithm to perform similarity search with the highest level of efficiency and speed. ⚡
+* Features a robust [REST API](https://eigendb.mintlify.app/api-reference/api), enabling users to perform database operations seamlessly. ✨
+
+---
+
+
+### 📦 Repositories
+
+- 📦 [`eigen-db`](https://github.com/Eigen-DB/eigen-db) - EigenDB's main repository
+- 📦 [`hnswgo`](https://github.com/Eigen-DB/hnswgo) - Our open-source Go library for blazingly fast nearest-neighbor search
+- 📦 [`docs`](https://github.com/Eigen-DB/docs) - Our documentation
+- 📦 [`old-docs`](https://github.com/Eigen-DB/old-docs) - Our old and **outdated** documentation (archived)
 
 ---
 
@@ -33,15 +44,9 @@ If you feel like we missed something, feel free to [contribute](https://github.c
 
 ---
 
-### 🤝 Contributing
-
-Coming soon...
-
----
-
 ### 💬 Contact Us!
 
 Email: ryanawad@yahoo.com
 
-LinkedIn: https://www.linkedin.com/in/ryanawad/
+LinkedIn: https://www.linkedin.com/in/ryanawad
 
