@@ -1,5 +1,5 @@
 <div align="center">
-<img src="../assets/logo.svg" width="450px">
+<img src="../assets/logo.svg" width="400px">
 
 ### ⚡ The blazingly fast in-memory vector database 🚀 
 
