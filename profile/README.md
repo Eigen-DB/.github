@@ -27,12 +27,11 @@
 ---
 
 
-### 📦 Repositories
+### 📦 Main Repositories
 
 - 📦 [`eigen-db`](https://github.com/Eigen-DB/eigen-db) - EigenDB's main repository
 - 📦 [`hnswgo`](https://github.com/Eigen-DB/hnswgo) - Our open-source Go library for blazingly fast nearest-neighbor search
 - 📦 [`docs`](https://github.com/Eigen-DB/docs) - Our documentation
-- 📦 [`old-docs`](https://github.com/Eigen-DB/old-docs) - Our old and **outdated** documentation (archived)
 
 ---
 
