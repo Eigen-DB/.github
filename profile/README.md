@@ -26,15 +26,6 @@
 
 ---
 
-
-### 📦 Main Repositories
-
-- 📦 [`eigen-db`](https://github.com/Eigen-DB/eigen-db) - EigenDB's main repository
-- 📦 [`hnswgo`](https://github.com/Eigen-DB/hnswgo) - Our open-source Go library for blazingly fast nearest-neighbor search
-- 📦 [`docs`](https://github.com/Eigen-DB/docs) - Our documentation
-
----
-
 ### 📖 Documentation
 
 Our official documentation can be found [here](https://eigendb.mintlify.app/)!
