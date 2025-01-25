@@ -14,9 +14,8 @@
 ## Table of contents
 
 1. [🔎 Overview](#overview)
-2. [📦 Repositories](#Repositories)
-3. [📖 Documentation](#documentation)
-4. [💬 Contact Us](#contact-us)
+2. [📖 Documentation](#documentation)
+3. [💬 Contact Us](#contact-us)
 ---
 
 ### 🔎 Overview
